@@ -25,6 +25,7 @@ body {
   flex-direction: column;
 }
 
+
 .flex-box0 {
   margin: auto;
   width: 1100px;
@@ -62,7 +63,6 @@ nav.navi {
   margin-left: 0px;
   margin-top: 10px;
   max-width: 100%;
-  
 }
 
 .imagecentre {
@@ -76,6 +76,7 @@ nav.navi {
   display: flex;
   align-items: flex-start;
 }
+
 
 .media .content {
   flex: 1;
@@ -372,6 +373,15 @@ li a:hover {
     flex-direction: column;
 }
 
+
+.flex-container11 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
 .flex-box1 {
   margin-bottom: 30px;
   margin-top: 5px;
@@ -433,6 +443,33 @@ li a:hover {
     height: auto;
 }
 
+.flex-box22 {
+  width: 400px;
+  height: 650px;
+  background: linear-gradient(-45deg, #788cff00, #b4bfff);
+  color: rgb(26, 10, 10);
+  font-size: 25px;
+  text-align: center;
+  line-height: 0px;
+  border-radius: 10px;
+  margin-left: 0;
+  justify-content: center;
+  max-width: 100%;
+}
+
+.flex-box48 {
+  width: 400px;
+  height: 400px;
+  background: linear-gradient(-45deg, #788cff00, #b4bfff);
+  color: rgb(26, 10, 10);
+  font-size: 25px;
+  text-align: center;
+  line-height: 0px;
+  border-radius: 10px;
+  margin: auto;
+  justify-content: center;
+  max-width: 100%;
+}
 .flex-box12 {
   width: 1100px;
   height: 600px;
@@ -595,11 +632,45 @@ button {
 
 }
 
+.flex-box33 {
+  width: 500px;
+  height: 550px;
+  background-color: #0000007c;
+  color: rgb(26, 10, 10);
+  font-size: 25px;
+  text-align: center;
+  line-height: 50px;
+margin-top: 100px;
+
+}
+
+.flex-box44 {
+  width: 500px;
+  height: 550px;
+  background-color: #00000080;
+  font-size: 25px;
+  text-align: center;
+  line-height: 50px;
+margin-top: 100px;
+}
+
 .mot1 {
     font-family: "Iceland", sans-serif;
     font-weight: 800;
     font-style: normal;
     font-size: 100px;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0px #F8F8F8;
+	text-shadow: 6px 5px 3px rgb(124, 124, 124);
+  }
+
+  .mot11 {
+    font-family: "Iceland", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 80px;
+    margin-top: 30px;
+margin-bottom: 50px;
     color: rgb(255, 255, 255);
     -webkit-text-stroke: 0px #F8F8F8;
 	text-shadow: 6px 5px 3px rgb(124, 124, 124);
@@ -636,6 +707,7 @@ button {
 
 }
 
+
 .flex-box5 {
     font-family: "Iceland", sans-serif;
     font-weight: 400;
@@ -654,6 +726,24 @@ button {
     color: rgb(165, 165, 165);
     -webkit-text-stroke: 0px #ffffff;
 	text-shadow: 6px 5px 5px rgb(122, 122, 122);
+}
+
+.flex-box55 {
+  font-family: "Iceland", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  width: 400px;
+  height: 150px;
+overflow: hidden;
+  background-color: #ffffff77;
+  font-size: 40px;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  color: rgb(165, 165, 165);
+  -webkit-text-stroke: 0px #ffffff;
+text-shadow: 6px 5px 5px rgb(122, 122, 122);
 }
 
 .flex-box8 {
