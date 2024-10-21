@@ -80,7 +80,7 @@ nav.navi {
 .media .content {
   flex: 1;
   padding: 0px;
-  padding-left: 25px;
+  padding-left: 5px;
  margin-top: 100px;
  margin-bottom: 100px;
  font-size: 110px;
@@ -118,6 +118,96 @@ nav.navi {
   flex: 1;
   padding: 0px;
   padding-left: 120px;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ font-size: 110px;
+  color: rgb(0, 0, 0);
+	-webkit-text-stroke: 0px #F8F8F8;
+	text-shadow: 5px 3px 3px rgb(255, 255, 255);
+  box-sizing: content-box;
+  font-family: "Iceland", sans-serif;
+  font-weight: 800;
+  font-style: oblique;
+  height: 120px;
+  overflow: hidden; 
+}
+
+.media .content5 {
+  flex: 1;
+  padding: 0px;
+  padding-left: 150px;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ font-size: 110px;
+  color: rgb(0, 0, 0);
+	-webkit-text-stroke: 0px #F8F8F8;
+	text-shadow: 5px 3px 3px rgb(255, 255, 255);
+  box-sizing: content-box;
+  font-family: "Iceland", sans-serif;
+  font-weight: 800;
+  font-style: oblique;
+  height: 120px;
+  overflow: hidden; 
+}
+
+.media .content6 {
+  flex: 1;
+  padding: 0px;
+  padding-left: 150px;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ font-size: 110px;
+  color: rgb(0, 0, 0);
+	-webkit-text-stroke: 0px #F8F8F8;
+	text-shadow: 5px 3px 3px rgb(255, 255, 255);
+  box-sizing: content-box;
+  font-family: "Iceland", sans-serif;
+  font-weight: 800;
+  font-style: oblique;
+  height: 120px;
+  overflow: hidden; 
+}
+
+.media .content7 {
+  flex: 1;
+  padding: 0px;
+  padding-left: 110px;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ font-size: 110px;
+  color: rgb(0, 0, 0);
+	-webkit-text-stroke: 0px #F8F8F8;
+	text-shadow: 5px 3px 3px rgb(255, 255, 255);
+  box-sizing: content-box;
+  font-family: "Iceland", sans-serif;
+  font-weight: 800;
+  font-style: oblique;
+  height: 120px;
+  overflow: hidden; 
+}
+
+.media .content8 {
+  flex: 1;
+  padding: 0px;
+  padding-left: 110px;
+ margin-top: 100px;
+ margin-bottom: 100px;
+ font-size: 110px;
+  color: rgb(0, 0, 0);
+	-webkit-text-stroke: 0px #F8F8F8;
+	text-shadow: 5px 3px 3px rgb(255, 255, 255);
+  box-sizing: content-box;
+  font-family: "Iceland", sans-serif;
+  font-weight: 800;
+  font-style: oblique;
+  height: 120px;
+  overflow: hidden; 
+}
+
+.media .content9 {
+  flex: 1;
+  padding: 0px;
+  padding-left: 110px;
  margin-top: 100px;
  margin-bottom: 100px;
  font-size: 110px;
