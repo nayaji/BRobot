@@ -287,7 +287,7 @@ nav ul li {
 
 nav ul li a {
   color: rgb(0, 0, 0);
-  font-size: 25px;
+  font-size: 30px;
   padding: 0px;
   border-radius: 3px;
   text-transform: uppercase;
@@ -357,7 +357,7 @@ li a:hover {
 
   a:hover {
     background: none;
-    color: #0082e6;
+    color: #444444;
   }
 
   #check:checked~ul {
@@ -680,14 +680,13 @@ button {
   font-weight: 800;
   font-style: normal;
   font-size: 50px;
-  color: rgb(255, 255, 255);
-  -webkit-text-stroke: 0px #F8F8F8;
+  color: rgb(129, 129, 129);
+  -webkit-text-stroke: 0px #555555;
 	text-shadow: 6px 5px 3px rgb(124, 124, 124);
 }
 
 a { 
   color: rgb(104, 104, 104);
-  -webkit-text-stroke: 0px #353535;
 	text-shadow: 7px 7px 5px rgb(255, 255, 255);
 }
 
@@ -807,6 +806,26 @@ overflow: hidden;
 text-shadow: 6px 5px 5px rgb(122, 122, 122);
 }
 
+.flex-box555 {
+  font-family: "Iceland", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  width: 1100px;
+  height: 200px;
+overflow: hidden;
+  background-color: #ffffff77;
+  font-size: 40px;
+  text-align: center;
+  line-height: 50px;
+  margin-left: 20px;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 0px;
+  color: rgb(165, 165, 165);
+  -webkit-text-stroke: 0px #ffffff;
+text-shadow: 6px 5px 5px rgb(122, 122, 122);
+}
+
 .flex-box8 {
   font-family: "Iceland", sans-serif;
   font-weight: 400;
@@ -842,7 +861,7 @@ text-shadow: 6px 5px 5px rgb(122, 122, 122);
 }
 
 .bouton1 {
-  color: #ffffff;
+  color: #04024b;
 }
 
 footer {
