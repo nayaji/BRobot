@@ -700,8 +700,12 @@ button {
 
 
 .condition {
-  margin-right: 200px;
-  margin-top: 150px;
+  margin-right: 130px;
+  margin-top: 200px;
+  font-family: "Iceland", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 30px;
 
 }
 
