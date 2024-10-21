@@ -724,6 +724,17 @@ a {
   
   }
 
+  .mot10 {
+    font-family: "Iceland", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0px #F8F8F8;
+	text-shadow: 6px 5px 3px rgb(124, 124, 124);
+  
+  }
+
   .mot11 {
     font-family: "Iceland", sans-serif;
     font-weight: 700;
@@ -746,7 +757,27 @@ margin-bottom: 50px;
 	text-shadow: 6px 5px 3px rgb(124, 124, 124);
   }
 
+  .mot20 {
+    font-family: "Iceland", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0px #F8F8F8;
+	text-shadow: 6px 5px 3px rgb(124, 124, 124);
+  }
+
 .mot3 {
+    font-family: "Iceland", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+    -webkit-text-stroke: 0px #F8F8F8;
+	text-shadow: 6px 5px 3px rgb(124, 124, 124);
+  }
+
+  .mot30 {
     font-family: "Iceland", sans-serif;
     font-weight: 800;
     font-style: normal;
@@ -891,3 +922,16 @@ ul.ulfoot1 {
 	text-shadow: 4px 4px 4px rgb(255, 255, 255);
 }
 
+.imagerobot img:hover{
+  width: 500px;
+  transition: transform .1s;
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.5);
+}
+
+p {
+  font-family: "Iceland", sans-serif;
+    font-style: oblique;
+    font-size: 30px;
+}
