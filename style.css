@@ -683,7 +683,7 @@ button {
 .flex-box33 {
   width: 500px;
   height: 550px;
-  background-color: #0000007c;
+
   border-radius: 100px 30px;
   font-size: 25px;
   text-align: center;
@@ -951,5 +951,8 @@ ul.ulfoot1 {
 p {
   font-family: "Iceland", sans-serif;
     font-style: oblique;
-    font-size: 30px;
+    font-weight: 600;
+    font-size: 50px;
+    color: #21b935;
+    text
 }
